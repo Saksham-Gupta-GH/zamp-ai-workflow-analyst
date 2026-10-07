@@ -1,0 +1,9 @@
+INVOICE STATEMENT
+Billed By: Stark Industries
+Date: 10/05/2026
+
+Equipment Delivery (Arc Reactor parts): $85,000
+Late Fee Penalty: $15,000
+
+Total: $100,000.00
+PO Number: PO-1003

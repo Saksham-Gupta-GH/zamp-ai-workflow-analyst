@@ -1,0 +1,10 @@
+INVOICE #1001
+FROM: Acme Corp
+TO: Zamp AI
+DATE: 2026-10-08
+
+Description: Server maintenance (September)
+Amount: $5,000.00
+
+Purchase Order Reference: PO-1001
+Thank you for your business!

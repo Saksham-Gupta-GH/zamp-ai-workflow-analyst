@@ -1,0 +1,14 @@
+{
+    "PO-1001": {
+        "vendor_name": "Acme Corp",
+        "expected_amount": 5000.00
+    },
+    "PO-1002": {
+        "vendor_name": "Globex Solutions",
+        "expected_amount": 12500.00
+    },
+    "PO-1003": {
+        "vendor_name": "Stark Industries",
+        "expected_amount": 85000.00
+    }
+}

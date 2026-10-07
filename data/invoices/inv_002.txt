@@ -1,0 +1,11 @@
+INVOICE #442A
+VENDOR: Globex Solutions
+DATE: October 1st, 2026
+
+Items:
+- Consulting Services: $12,000.00
+- Travel Expenses (Tolerated): $600.00
+
+TOTAL DUE: $12,600.00
+
+Please reference PO-1002 on payment.
